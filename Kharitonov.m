@@ -1,18 +1,18 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Copyright By:
-% 1. Sudiro NIM: 16/399920/TK/44934
+% [1] Sudiro NIM: 16/399920/TK/44934
 % at Sudiro@mail.ugm.ac.id
 %
-% 2. Nicholaus Valentino Dwicahyo NIM: 16/399912/TK/44926
+% [2] Nicholaus Valentino Dwicahyo NIM: 16/399912/TK/44926
 % at nicovalentdwicahyo@gmail.com
 %
-% 3. Nathanael M. Tedjo Kurniawan NIM: 16/394955/TK/44247
+% [2] Nathanael M. Tedjo Kurniawan NIM: 16/394955/TK/44247
 % at nathanaelmic@gmail.com
 %
-% 4. Julio Marcelino Bagaskara NIM: 16/394946/TK/44238
+% [2] Julio Marcelino Bagaskara NIM: 16/394946/TK/44238
 % at julio.marcelino.bagaskara@mail.ugm.ac.id
 %
-% 5. Wardaniawan NIM: 16/399924/TK/44938
+% [3] Wardaniawan NIM: 16/399924/TK/44938
 % at Daniawan90@gmail.com
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
